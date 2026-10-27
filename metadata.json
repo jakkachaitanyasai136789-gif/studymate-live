@@ -1,0 +1,7 @@
+{
+  "name": "StudyMate — Smart Student Planner",
+  "description": "A modern, responsive student productivity planner to organize schedules, assignments, deadlines, timetable, and study notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
